@@ -26,8 +26,9 @@
  
 <div> 
    <a href = "victoroliveira.eng@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/outlook_button_icon_151845.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victoroliveraeng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/victoroliveraeng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  <a href="https://www.instagram.com/inteligencia.programada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
 </div>
 
 
