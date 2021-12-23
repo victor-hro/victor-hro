@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning about Data Science, Machine Learning and Computer Vision <3;
 - 👉🏻 I post about artificial intelligence and data science on instagram: @inteligenciaprogramada
 
+<h3 align="left">Languages and Tools:</h3>
 <div>
   <a href="https://github.com/victor-hro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-hro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,7 +28,7 @@
 </div>
   
 ##
- 
+ <h3 align="left">Connect with me:</h3>
 <div> 
    <a href = "victoroliveira.eng@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/outlook_button_icon_151845.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victoroliveraeng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
