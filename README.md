@@ -24,8 +24,7 @@
   <img align="center" alt="Victor-sqlserver" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="Victor-matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   <img align="center" alt="Victor-vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="right" height="120"   align="right" alt="Victor-gif" src="https://media4.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif?cid=ecf05e47urh12fli595tpsaf938sugrhvwdc5sluou7pmlmh&rid=giphy.gif&ct=g">
-</div>
+
   
 ##
  <h3 align="left">Connect with me:</h3>
