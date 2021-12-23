@@ -11,16 +11,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Victor-Python" height="30" width="80" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://github.com/valohai/ml-logos/blob/master/keras.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Victor-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Victor-pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Victor-seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+  <img align="center" alt="Victor-jupyter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Victor-tensorflow" height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+  <img align="center" alt="Victor-pytorch" height="40" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+  <img align="center" alt="Victor-keras" height="40" width="40" src="https://github.com/valohai/ml-logos/blob/master/keras.svg">
+  <img align="center" alt="Victor-sklearn" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"">
+  <img align="center" alt="Victor-opencv" height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
+  <img align="center" alt="Victor-sqlserver" height="40" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="Victor-matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
+  <img align="center" alt="Victor-vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="right" height="120"   align="right" alt="Victor-gif" src="https://media4.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif?cid=ecf05e47urh12fli595tpsaf938sugrhvwdc5sluou7pmlmh&rid=giphy.gif&ct=g">
 </div>
   
