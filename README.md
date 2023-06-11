@@ -1,7 +1,6 @@
 ## Hello! Welcome to my profile! I'm Victor Oliveira ✌
 
-- 🔭 I’m a Master degre student in Electrical Engineering at Universidade Federal de Santa Catarina;
-- 🧠 Researching about Brain Age Prediction with Deep Learning Using Magnetic Resonance Imaging;
+- 🔭 I’m a Master in Electrical Engineering at Universidade Federal de Santa Catarina;
 - 🌱 I’m currently learning about Data Science, Machine Learning and Computer Vision <3;
 - 👉🏻 I post about artificial intelligence and data science on instagram: @inteligenciaprogramada
 
