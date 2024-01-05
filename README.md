@@ -5,13 +5,19 @@
 - 🔍 Passionate about AI and Data Science - Follow me on [Instagram](https://www.instagram.com/inteligencia.programada/)
 
 
-[![Victor's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victor-hro&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/victor-hro/github-readme-stats#gh-dark-mode-only)
+<a href="https://github.com/victor-hro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victor-hro&theme=dracula" />
+</a>
+<a href="https://github.com/victor-hro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-hro&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-  
 ## Connect with Me
 - Email: victoroliveira.eng@hotmail.com
 - LinkedIn: [Victor Oliveira](https://www.linkedin.com/in/victoroliveraeng/)
 - Instagram: [@inteligencia.programada](https://www.instagram.com/inteligencia.programada/)
+
+
 
 
 
