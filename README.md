@@ -2,7 +2,8 @@
 
 - 🔭 I’m a Master in Electrical Engineering at Universidade Federal de Santa Catarina;
 - 🌱 I’m currently learning about Data Science, Machine Learning and Computer Vision <3;
-- 👉🏻 I post about artificial intelligence and data science on instagram: @inteligenciaprogramada
+- 🔍 Passionate about AI and Data Science - Follow me on [Instagram](https://www.instagram.com/inteligencia.programada/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -25,14 +26,10 @@
   <img align="center" alt="Victor-vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
   
-##
- <h3 align="left">Connect with me:</h3>
-<div> 
-   <a href = "victoroliveira.eng@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/outlook_button_icon_151845.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victoroliveraeng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-  <a href="https://www.instagram.com/inteligencia.programada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-</div>
+## Connect with Me
+- Email: victoroliveira.eng@hotmail.com
+- LinkedIn: [Victor Oliveira](https://www.linkedin.com/in/victoroliveraeng/)
+- Instagram: [@inteligencia.programada](https://www.instagram.com/inteligencia.programada/)
 
 
 
