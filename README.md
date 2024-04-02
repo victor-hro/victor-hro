@@ -5,8 +5,8 @@ gantt
     dateFormat  YYYY-MM-DD
     title My Timeline
     section Carreira
-    Mestrado em Engenharia Elétrica - Machine Learning  :done, 2020-03-02, 2023-03-02
-    TODOS Empreendimentos - Analista de CRM Analytics   :active, black, 2022-03-28, 2024-04-05
+    Mestrado em Engenharia Elétrica - Machine Learning  :active,, 2020-03-02, 2023-03-02
+    TODOS Empreendimentos - Analista de CRM Analytics   :active,, 2022-03-28, 2024-04-05
 
     %% Para mais informações, consulte a documentação do Mermaid: https://mermaid-js.github.io/mermaid/#/styles?id=gantt-styles
 ```
@@ -32,6 +32,13 @@ gantt
 - **Data Modeling and Visualization:** Power BI, Streamlit, dbt, ETL
 - **Tools and Platforms:** GitHub, AzureDevOps
 - **Project Management:** Agile methodologies (Scrum), Management tools like Monday and Asana
+
+## Atuação profissional
+
+:computer: Analista de CRM Analytics - TODOS Empreendimentos (03.2022 - 04.2024)
+
+:student: Aluno Pesquisador Mestrado - Universidade Federal de Santa Catarina (03.2020 - 03.2023)
+
 
 ## Featured Projects
 
