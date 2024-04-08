@@ -36,6 +36,7 @@ gantt
 - **Project Management:** Agile methodologies (Scrum), Management tools like Monday and Asana
 
 ## Atuação profissional
+:computer: Cientista de Dados Pleno - Bancorbrás (04.2022 - atual)
 
 :computer: Analista de CRM Analytics - TODOS Empreendimentos (03.2022 - 04.2024)
 
