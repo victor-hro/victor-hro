@@ -5,10 +5,9 @@ gantt
     title My Timeline
     dateFormat  YYYY-MM-DD
     section Carreira
-    Mestrado em Engenharia Elétrica - Machine Learning  :2020-03-02, 2023-03-02
-    TODOS Empreendimentos - Analista de CRM Analytics  :2022-03-28, 2024-04-05
-    Bancorbrás - Cientista de Dados Pleno               :2024-04-08,
-
+    Mestrado em Engenharia Elétrica - Machine Learning    :active,, 2020-03-02, 2023-03-02
+    TODOS Empreendimentos     :active,, 2022-03-28, 2024-04-05
+    Bancorbrás                :active,, 2024-04-08, 2024-12-31
 ```
 
 
